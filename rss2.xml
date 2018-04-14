@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>浪漫随风</title>
+    <link>https://jooyer.github.io/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>记录关于 Android 开发和 Java 后台开发一些笔记,欢迎前来吐槽和交流!</description>
+    <pubDate>Sat, 14 Apr 2018 17:24:16 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>文章的标题</title>
+      <link>https://jooyer.github.io/2018/04/15/test/</link>
+      <guid>https://jooyer.github.io/2018/04/15/test/</guid>
+      <pubDate>Sat, 14 Apr 2018 16:22:03 GMT</pubDate>
+      <description>
+      
+      </description>
+      
+      <comments>https://jooyer.github.io/2018/04/15/test/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>第一篇文章,使用Hexo + Github 搭建此博客</title>
+      <link>https://jooyer.github.io/2018/04/14/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0-%E4%BD%BF%E7%94%A8Hexo-Github-%E6%90%AD%E5%BB%BA%E6%AD%A4%E5%8D%9A%E5%AE%A2/</link>
+      <guid>https://jooyer.github.io/2018/04/14/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0-%E4%BD%BF%E7%94%A8Hexo-Github-%E6%90%AD%E5%BB%BA%E6%AD%A4%E5%8D%9A%E5%AE%A2/</guid>
+      <pubDate>Sat, 14 Apr 2018 13:26:32 GMT</pubDate>
+      <description>
+      
+      </description>
+      
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://jooyer.github.io/2018/04/14/Hello%20World/</link>
+      <guid>https://jooyer.github.io/2018/04/14/Hello%20World/</guid>
+      <pubDate>Sat, 14 Apr 2018 07:44:36 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;&amp;lt;Excerpt in index | Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&amp;gt;&lt;br&gt;
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>&lt;Excerpt in index | Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.&gt;<br><a id="more"></a></p><p><the rest="" of="" contents="" |="" 余下全文=""></the></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content:encoded>
+      
+      <comments>https://jooyer.github.io/2018/04/14/Hello%20World/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
